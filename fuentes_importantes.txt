@@ -1,0 +1,18 @@
+Instalacion de postgresql
+http://jalbertomr.blogspot.com/2019/09/instalar-postgresql-ubuntu-1804.html
+https://www.pgadmin.org/download/pgadmin-4-apt/
+
+express-jwt
+https://tutorial.tips/how-to-fix-error-algorithms-should-be-set-express-jwt  <-- este es el bueno
+https://stackoverflow.com/questions/62665636/if-options-algorithms-throw-new-erroralgorithms-should-be-set-error-alg
+
+NodeJS_&_NVM
+https://www.hostinger.mx/tutoriales/instalar-node-js-ubuntu/
+
+ubuntu-comandos_basicos
+No se pudo bloquear /var/lib/dpkg/lock
+http://www.javiercarrasco.es/2013/02/08/no-se-pudo-bloquear-varlibdpkglock-open-11-recurso-no-disponible-temporalmente/
+
+El_inicio_de_este_proyecto
+https://blog.appsignal.com/2020/06/03/building-apis-with-graphql-in-your-node-application.html
+https://www.npmjs.com/package/graphql-playground <--graphql

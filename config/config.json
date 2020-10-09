@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "moly2034",
+    "database": "graphql_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+},
+  "test": {
+    "username": "postgres",
+    "password": "moly2034",
+    "database": "graphql_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "moly2034",
+    "database": "graphql_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
